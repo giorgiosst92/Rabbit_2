@@ -7,6 +7,6 @@ Note: change the value stored inside [processing].[a/b/c] in the config.ini file
 to test different scenarios
 
 
-At the end you will get a pint in the console telling:
+At the end you will get a print in the console telling:
 
 Minimum number of jumps to reach end is 3
